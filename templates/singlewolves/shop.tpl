@@ -1,0 +1,1 @@
+ {include file="/blockshop/index.php"} 
